@@ -1,0 +1,19 @@
+
+q
+java:S3008"[Rename this field "NUM_PHILOSOPHERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìí¥æ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’ôŸøÿÿÿÿ
+Z
+java:S1134"DTake the required action to fix the issue indicated by this comment.(šÙ™Ì
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+U
+java:S2442#":Synchronize on this "Lock" object using "acquire/release".(µ—ıôúÿÿÿÿ
+U
+java:S24420":Synchronize on this "Lock" object using "acquire/release".(µ—ıôúÿÿÿÿ
+Œ
+java:S1130="wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+@
+java:S5411%"*Use the primitive boolean expression here.(Œğ—ª
+@
+java:S54112"*Use the primitive boolean expression here.(Œğ—ª
